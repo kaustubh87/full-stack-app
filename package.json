@@ -1,0 +1,27 @@
+{
+  "name": "full-stack-app",
+  "version": "1.0.0",
+  "description": "An application developed using React, Next and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "next",
+    "build": "next build",
+    "start" : "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh87/full-stack-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh87/full-stack-app/issues"
+  },
+  "homepage": "https://github.com/kaustubh87/full-stack-app#readme",
+  "dependencies": {
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
